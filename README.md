@@ -13,7 +13,7 @@ CalcGreenwichTime calculates Greenwich Time.
 
 `./calc_greenwich_time.rb [YYYYMMDD[HHMMSS]]`
 
-If you specify a argument, `calc_greenwich_time.rb` regards system's date-time as TT(Terrestrial Time).
+If you don't specify a argument, `calc_greenwich_time.rb` regards system's date-time as TT(Terrestrial Time).
 
 And, `calc_greenwich_time.rb` also outputs progresses.
 
